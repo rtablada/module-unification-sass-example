@@ -1,0 +1,6 @@
+{
+  "name": "em-list",
+  "dependencies": {
+    "ember": "components/ember#canary"
+  }
+}
